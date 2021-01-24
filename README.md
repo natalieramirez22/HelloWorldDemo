@@ -1,5 +1,10 @@
 # HelloWorldDemo
-Beginner Java Workshop File
+Leading Coding Club's Beginner Java Workshop
+- Beginning with simple description of classes and methods
+- Print statements
+- Variables
+- Scanner & User Input
+- Strings and Integers
 
 ## Purpose
-Learn basics of Java by using user input and print lines
+Teach Coding Club members the basics of Java and have them understand the concept of Object Oriented Programming.
